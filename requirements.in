@@ -1,0 +1,23 @@
+# Format
+isort
+black
+flake8
+mypy
+pip-tools
+pre-commit
+# ML
+torch
+torchvision
+torchaudio
+pandas
+kaggle
+h5py
+pytorch-lightning
+torchmetrics
+efficientnet-pytorch
+wandb
+pyfstat
+transformers
+sklearn
+ray
+timm
