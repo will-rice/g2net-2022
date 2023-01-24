@@ -6,7 +6,7 @@ mypy
 pip-tools
 pre-commit
 # ML
-torch
+torch>=1.13.0
 torchvision
 torchaudio
 pandas

@@ -342,7 +342,7 @@ tomli==2.0.1
     #   build
     #   mypy
     #   pep517
-torch==1.12.1
+torch==1.13.1
     # via
     #   -r requirements.in
     #   efficientnet-pytorch
